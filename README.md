@@ -10,8 +10,10 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alok-singh-kushwah-104191209) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2)](askushw07.github.io)
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) 
