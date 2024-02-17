@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alok Singh Kushwwah
+- 👋 Hi, I’m Alok Singh Kushwah
 - 👀 I’m looking for web developer position in MERN Stack
 - 🌱 I’ve completed Full Stack Web Development course from Masai School
 - 💞️ I’m looking to collaborate on Frontend Applications
