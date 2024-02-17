@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Alok Singh Kushwwah
-- 👀 I’m looking for frontend developer in MERN Stack
-- 🌱 I’m currently learning FrontEnd from Masai School
+- 👀 I’m looking for web developer position in MERN Stack
+- 🌱 I’ve completed Full Stack Web Development course from Masai School
 - 💞️ I’m looking to collaborate on Frontend Applications
-- 📫 You can react out to me on askushw07@gmail.com
+- 📫 You can reach out to me on askushw07@gmail.com
 
 <!---
 askushw07/askushw07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
